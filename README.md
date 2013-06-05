@@ -1,6 +1,6 @@
 New homepage for http://www.laufenundgutestun.de/
 
-h1. Laufen und Gutes tun e.V.
+Laufen und Gutes tun e.V.
 
 Der Verein LAUFEN UND GUTES TUN e.V. hat sich aus einer Gruppe gebildet,
 die im Jahr 2003 eine Typisierungsaktion der DKMS (Deutsche Knochenmarkspenderdatei) organisiert und geleitet hat.
@@ -15,5 +15,5 @@ um auch weiterhin helfen zu können.
 
 Thanks to:
 
-* "Zurb foundation":http://foundation.zurb.com/
-* "requireJS":http://requirejs.org
+* Zurb foundation http://foundation.zurb.com/
+* requireJS http://requirejs.org
