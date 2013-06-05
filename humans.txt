@@ -1,8 +1,15 @@
-/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
-/* zurb.com */
-/* humanstxt.org */
+/* THANKS */
+    To: ZURB for Foundation framework zurb.com
 
 /* SITE */
-  Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Coda, Textmate, Git
+    Standards: HTML5, CSS3
+    Components: jQuery
+    Software: PHPStorm
+
+/* TEAM */
+    Chef: Michael Kuecker
+
+    Development: Adam Balachowski
+    Contact: balachowski [at] googlemail.com
+    Twitter: @Balachowski
+    From: Rheda-Wiedenbrueck, NRW, Germany
